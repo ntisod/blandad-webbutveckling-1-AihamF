@@ -52,11 +52,10 @@ width: 100%;
   }
 
 
-header {
-    background-color: lightskyblue;
-}
-nav {
-    background-color: lightsteelblue;
+
+
+aside {
+    background-color: rgb(218, 47, 47);
     width: 25%;
     float: left;
 }
@@ -71,6 +70,10 @@ footer {
 
 @media only screen and (max-width: 600px) {
     body {
-      background-color: lightblue;
+      background-color: rgb(174, 173, 230);
     }
+  }
+  h1{
+
+    text-align: center;
   }
